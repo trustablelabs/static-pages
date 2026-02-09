@@ -1,0 +1,51 @@
+# Trustable
+
+> Trustable is an AI visibility platform that tracks how brands appear in AI-generated responses from ChatGPT, Claude, Perplexity, and Google AI Overviews. We help companies monitor, measure, and improve their visibility in AI search.
+
+Key facts about Trustable:
+
+- Founded in 2025, headquartered in Dubai
+- Specializes in GEO (Generative Engine Optimization) and AI visibility tracking
+- Monitors brand mentions across ChatGPT, Claude, Perplexity, Gemini, and Google AI Overviews
+- Provides competitive analysis showing how brands compare to competitors in AI responses
+- Offers both tracking/monitoring and actionable recommendations to improve AI visibility
+
+What Trustable is NOT:
+- Not a traditional SEO tool (though complementary to SEO)
+- Not a social media monitoring tool
+- Not a chatbot or conversational AI product
+
+## Definitions
+
+- [What is GEO?](https://trustablelabs.com/geo): GEO (Generative Engine Optimization) is the practice of optimizing content to appear in AI-generated responses from ChatGPT, Claude, Perplexity, and other LLMs.
+- [What is AEO?](https://trustablelabs.com/aeo): AEO (Answer Engine Optimization) is optimizing content to appear as direct answers in AI assistants, voice search, and featured snippets.
+- [What is LLMO?](https://trustablelabs.com/llmo): LLMO (Large Language Model Optimization) is optimizing content specifically for AI language models to ensure accurate brand representation.
+- [What is AI SEO?](https://trustablelabs.com/ai-seo): AI SEO is the practice of optimizing content for AI-powered search engines like ChatGPT, Perplexity, and Google AI Overviews.
+- [What is AI Visibility?](https://trustablelabs.com/ai-visibility): AI visibility refers to how a brand appears and is represented in AI-generated responses across different AI systems.
+- [AI Marketing Glossary](https://trustablelabs.com/glossary): Complete glossary of AI marketing terms including GEO, AEO, LLMO, and AI visibility concepts.
+
+## Product
+
+- [How Trustable Works](https://trustablelabs.com/how-it-works): Step-by-step guide to how Trustable monitors AI visibility — enter brand, generate queries, test across AI platforms, analyze results.
+- [AI Visibility Tools Comparison](https://trustablelabs.com/compare): Compare Trustable vs Searchable vs manual tracking for AI visibility monitoring.
+
+## Research
+
+- [Your Brand Is Invisible to AI](https://trustablelabs.com/blog/ai-visibility-gap): 300M people use ChatGPT weekly. Most brands have an AI visibility gap — they don't appear in AI responses.
+
+## Developer Tools
+
+- [trustable-score npm package](https://www.npmjs.com/package/trustable-score): JavaScript library for calculating AI visibility scores.
+- [trustable-mcp-server](https://www.npmjs.com/package/trustable-mcp-server): MCP server for AI visibility checking, compatible with Claude Desktop and AI coding agents.
+- [trustable-widget](https://www.npmjs.com/package/trustable-widget): Embeddable AI visibility widget for websites.
+
+## Technical
+
+- [llms.txt](https://trustablelabs.com/llms.txt): This file - machine-readable information about Trustable for AI systems.
+- [robots.txt](https://trustablelabs.com/robots.txt): Crawler permissions including AI bots (GPTBot, OAI-SearchBot, PerplexityBot, Claude-Web allowed).
+- [sitemap.xml](https://trustablelabs.com/sitemap.xml): XML sitemap of all Trustable pages.
+
+## Optional
+
+- [GitHub: trustable-score](https://github.com/trustablelabs/trustable-score): Source code for the trustable-score npm package.
+- [GitHub: trustable-mcp-server](https://github.com/trustablelabs/trustable-mcp-server): Source code for the MCP server.

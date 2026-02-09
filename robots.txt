@@ -1,0 +1,63 @@
+# Trustable Labs - AI Crawler Access
+# Updated: 2026-02-08
+# Purpose: Explicitly allow all AI crawlers to index our content
+
+# OpenAI
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+# ByteDance (TikTok AI)
+User-agent: Bytespider
+Allow: /
+
+# Google AI (Bard/Gemini training)
+User-agent: Google-Extended
+Allow: /
+
+# Cohere
+User-agent: cohere-ai
+Allow: /
+
+# Meta AI
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# Microsoft/Bing AI
+User-agent: Bingbot
+Allow: /
+
+# Apple AI
+User-agent: Applebot
+Allow: /
+
+# You.com
+User-agent: YouBot
+Allow: /
+
+# Common Crawl (used for training data)
+User-agent: CCBot
+Allow: /
+
+# Default: Allow all
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://trustablelabs.com/sitemap.xml

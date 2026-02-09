@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Definition pages -->
+  <url>
+    <loc>https://pages.trustablelabs.com/geo/</loc>
+    <lastmod>2026-02-09</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://pages.trustablelabs.com/aeo/</loc>
+    <lastmod>2026-02-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pages.trustablelabs.com/glossary/</loc>
+    <lastmod>2026-02-09</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pages.trustablelabs.com/how-it-works/</loc>
+    <lastmod>2026-02-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Comparison hub -->
+  <url>
+    <loc>https://pages.trustablelabs.com/compare/</loc>
+    <lastmod>2026-02-09</lastmod>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Comparison pages - Category roundups -->
+  <url>
+    <loc>https://pages.trustablelabs.com/compare/best-geo-tools/</loc>
+    <lastmod>2026-02-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pages.trustablelabs.com/compare/best-aeo-tools/</loc>
+    <lastmod>2026-02-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pages.trustablelabs.com/compare/best-ai-visibility-tools/</loc>
+    <lastmod>2026-02-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Comparison pages - Head to head -->
+  <url>
+    <loc>https://pages.trustablelabs.com/compare/otterly-vs-profound/</loc>
+    <lastmod>2026-02-09</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pages.trustablelabs.com/compare/best-otterly-alternatives/</loc>
+    <lastmod>2026-02-09</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pages.trustablelabs.com/compare/best-profound-alternatives/</loc>
+    <lastmod>2026-02-09</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Comparison pages - Concept comparisons -->
+  <url>
+    <loc>https://pages.trustablelabs.com/compare/geo-vs-seo/</loc>
+    <lastmod>2026-02-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pages.trustablelabs.com/compare/monitoring-vs-optimization-geo/</loc>
+    <lastmod>2026-02-09</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pages.trustablelabs.com/compare/ai-citations-vs-ai-mentions/</loc>
+    <lastmod>2026-02-09</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Blog -->
+  <url>
+    <loc>https://pages.trustablelabs.com/blog/ai-visibility-gap/</loc>
+    <lastmod>2026-02-09</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- AI context file -->
+  <url>
+    <loc>https://pages.trustablelabs.com/llms.txt</loc>
+    <lastmod>2026-02-09</lastmod>
+    <priority>0.5</priority>
+  </url>
+</urlset>
