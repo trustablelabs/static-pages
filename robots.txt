@@ -60,4 +60,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://trustablelabs.com/sitemap.xml
+Sitemap: https://pages.trustablelabs.com/sitemap.xml
